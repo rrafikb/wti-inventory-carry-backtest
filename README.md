@@ -2,7 +2,7 @@
 
 A systematic backtest of a long-only weekly WTI crude oil strategy built on public EIA data, run under pre-declared testing rules with a locked out-of-sample holdout.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_TO_NOTEBOOK)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/rrafikb/wti-inventory-carry-backtest/blob/main/wti_inventory_carry_backtest.ipynb))](LINK_TO_NOTEBOOK)
 
 ## TL;DR
 
